@@ -12,11 +12,15 @@
     "@types/node": "20.12.5",
     "@types/react": "18.2.74",
     "@types/react-dom": "18.2.24",
+    "antd": "^5.16.1",
+    "axios": "^1.6.8",
     "eslint": "8.57.0",
     "eslint-config-next": "14.1.4",
     "next": "14.1.4",
+    "notiflix": "^3.2.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
     "typescript": "5.4.4"
   }
 }
